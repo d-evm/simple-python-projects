@@ -16,8 +16,8 @@ Welcome to Simple Python Projects! This repository hosts a collection of simple 
 4. [Tkinter](./tkinter): Discover projects utilizing Tkinter library for GUI development.
    - Create interactive graphical user interfaces using Tkinter.
 
-5. [Web Scraping + Selenium](./web-scraping-selenium): Learn about web scraping and automation with Selenium.
-   - Extract data from websites and automate web interactions using Selenium.
+5. [Web Scraping](./web-scraping): Learn about web scraping and automation.
+   - Extract data from websites and automate web interactions.
 
 6. [Working with CSV](./working-with-csv): Explore projects demonstrating CSV file handling in Python.
    - Perform operations such as reading, writing, and manipulating CSV files.
