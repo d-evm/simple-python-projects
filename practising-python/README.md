@@ -19,5 +19,6 @@ Welcome to the Practising Python category! This section features projects aimed 
 7. **Quiz Game**: Test your knowledge with a variety of quizzes in this interactive game.
 
 8. **Secret Auction Program**: Participate in an anonymous auction where bidders can place bets, with the highest bid winning.
+9. **Tic Tac Toe**: Text-based implementation of tic-tac-toe game.
 
 Explore these projects to enhance your Python skills and have fun while doing so!
