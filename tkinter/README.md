@@ -17,6 +17,7 @@ Welcome to the Tkinter category! This section presents projects developed using 
 6. **Turtle Race**: Enjoy a fun turtle racing game implemented with Tkinter and the Turtle module. Place your bets and watch the turtles dash to the finish line!
 
 7. **Turtle Crossing Game**: Test your reflexes with this exciting crossing game, where you guide a turtle safely across the road using Tkinter controls.
-8. **Watermarking App**: Add watermark to any image.
+8. **Typing Speed Test**: Check your typing speed test with this tkinter program.
+9. **Watermarking App**: Add watermark to any image.
 
 Explore these Tkinter projects to learn GUI development and create engaging applications with Python!
